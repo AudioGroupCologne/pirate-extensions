@@ -6,7 +6,11 @@ This repository contains supplementary materials for adapted in-ear microphones 
 
 ## Contents
 
-WIP
+You can find all the 3d files in the stl-fileformat ready to 3D print as well as a single blender scene containing all the objects in the pirate-models folder and its subfolders 
+
+![3D models preview](pirate-models/3d-models.png)
+
+A detailled step by step guide on how to build the pirate-extension can be found [here](step-by-step-guide/STEP_BY_STEP.md)
 
 ## REFERENCES
 
